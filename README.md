@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @jacquelineguo7
-- 👀 I’m currently learning how to code, primarily in C++!
+Hi, I’m @jacquelineguo7 :)
+I’m currently learning C++ & hoping to get into webdev!
