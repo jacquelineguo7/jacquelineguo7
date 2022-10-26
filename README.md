@@ -1,1 +1,1 @@
-- Hi, I’m Jacqueline, a CS student at USC currently learning C++!
+- Hi, I’m Jacqueline, a Computer Engineering & Computer Science + Design student at USC!
