@@ -1,1 +1,2 @@
 - Hi, I’m Jacqueline, a Computer Engineering & Computer Science + Design student at USC!
+- // Currently learning C++ & Figma
