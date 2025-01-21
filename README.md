@@ -1,1 +1,1 @@
-hi! i'm jacqueline, an designer & amateur developer studying computer science and game design at usc. i hope to leverage my love for both disciplines to create beautiful and innately human visuals and experiences.
+hi! i'm jacqueline, an designer & developer studying computer science and game design at usc. i hope to leverage my love for both disciplines to create beautiful and innately human visuals and experiences.
