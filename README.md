@@ -1,1 +1,1 @@
-hi! i'm jacqueline, an designer & developer currently working at persona identities. previously, i studied computer science and game design at usc. i hope to leverage my love for both disciplines to create beautiful and innately human visuals and experiences.
+hi! i'm jacqueline, an designer & developer currently working at persona. previously, i studied computer science and game design at usc. i hope to leverage my love for both disciplines to create beautiful and innately human visuals and experiences.
